@@ -1,0 +1,11 @@
+{
+  "name": "glide-andheri",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@netlify/blobs": "11.1.6"
+  }
+}
